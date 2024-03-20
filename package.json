@@ -1,0 +1,16 @@
+{
+  "name": "to-do-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "sqlite3": "^5.1.7"
+  }
+}
